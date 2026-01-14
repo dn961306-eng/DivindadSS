@@ -1,0 +1,2 @@
+# DivindadSS
+Codigo termux analista
